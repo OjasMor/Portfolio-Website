@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/OjasMor/Portfolio-Website>
+        <a href="https://github.com/OjasMor/Portfolio-Website">
           <div>Designed &amp; Built by Ojas Mor</div>
 
           {githubInfo.stars && githubInfo.forks && (
