@@ -1,11 +1,11 @@
 {
-  "name": "Ojas Mor",
-  "description": "Personal Website",
+  "name": "v4",
+  "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Ojas Mor <ojasmor2@illinois.edu>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/ojasmor/portfolio-website"
+  "type": "git",
+  "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
