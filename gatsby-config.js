@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Ojas Mor',
     description:
-      'Ojas Mor is a student at UIUC, he enjoys creating and working with the latest technologies. Recently he's been working on a variety of projects ranfing from web dev to computer vision.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Ojas Mor is a student at UIUC, he enjoys creating and working with the latest technologies. Recently he\'s been working on a variety of projects ranfing from web dev to computer vision.',
+    siteUrl: 'https://ojasmor.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@OjasMor',
   },
