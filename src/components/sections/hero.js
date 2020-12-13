@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
+import Helmet from 'react-helmet';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -56,6 +57,9 @@ const Hero = () => {
        on computer vision, webscrapping, and ML. In my spare time, I love to play
        with Arduinos and my 3D-Printer!
     </p>
+    <Helmet>
+     <iframe src='https://my.spline.design/untitled-f449fc50e231ddcb07493f1d1ec72dfe/' frameborder='0'></iframe>
+    </Helmet>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
