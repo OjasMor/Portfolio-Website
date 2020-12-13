@@ -57,9 +57,7 @@ const Hero = () => {
        on computer vision, webscrapping, and ML. In my spare time, I love to play
        with Arduinos and my 3D-Printer!
     </p>
-    <Helmet>
-     <iframe src='https://my.spline.design/untitled-f449fc50e231ddcb07493f1d1ec72dfe/' frameborder='0'></iframe>
-    </Helmet>
+    
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
