@@ -1,13 +1,12 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+title: 'AP Computer Science Teaching Assistant'
+company: 'Cupertino High School'
 location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+range: 'August 2019 - June 2020'
+url: 'https://apstudents.collegeboard.org/courses/ap-computer-science-a'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Mentored students during lectures by adding relevant tips and advice
+- Graded homework, tests, and labs on a weekly basis with other TAs in a group setting
+- Created projects and challenging assignments for students to demonstrate mastery
