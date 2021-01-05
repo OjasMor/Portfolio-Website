@@ -1,12 +1,12 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Web Design Tutor'
+company: 'Future Engineers LLC'
+location: 'Cupertino, CA'
+range: 'June - August 2020'
+url: 'https://futureengineerscamp.com/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Taught a group of middle school students fundamentals in JavaScript, HTML, and CSS
+- Supervised and encouraged students to create a personal website as a final project
+- Introduced over fifty students to Git and version control
