@@ -1,11 +1,12 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'President'
+company: 'Engineering Freshman Council @ UIUC'
+location: 'University of Illinois at Urbana Champaign'
+range: 'September 2020 - Present'
+url: 'http://www.ec.illinois.edu/freshmen'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Lead an executive committee which organizes talks, workshops, service opportunities, and more
+- Represent the Class of 2024 Engineering at Engineer Council executive meetings
+- Work with deans and faculty to better the overall learning experience at UIUC
