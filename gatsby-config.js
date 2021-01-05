@@ -17,7 +17,7 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
     {
-      {
+      
     resolve: `gatsby-transformer-remark`,
     options: {
       plugins: [`gatsby-remark-responsive-iframe`],
