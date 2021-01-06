@@ -288,8 +288,10 @@ const Featured = () => {
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
+        ---Under Construction---
       </h2>
 
+    /*
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
@@ -334,6 +336,7 @@ const Featured = () => {
             );
           })}
       </div>
+      */
     </section>
   );
 };
