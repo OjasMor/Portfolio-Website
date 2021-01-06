@@ -292,7 +292,7 @@ const Featured = () => {
         ---Under Construction---
       </h2>
 
-    /*
+    
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
@@ -337,7 +337,7 @@ const Featured = () => {
             );
           })}
       </div>
-      */
+      
     </section>
   );
 };
