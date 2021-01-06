@@ -183,12 +183,9 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Projects\n---Coming Soon---</h2>
-/*
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </Link>
-*/
+      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+      <h2 ref={revealTitle}>---Coming Soon---</h2>
+
 
       <TransitionGroup className="projects-grid">
         {projectsToShow &&
