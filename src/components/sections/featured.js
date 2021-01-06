@@ -274,7 +274,7 @@ const Featured = () => {
       }
     }
   `);
-
+/*
   const featuredProjects = data.featured.edges.filter(({ node }) => node);
 
   const revealTitle = useRef(null);
@@ -283,6 +283,7 @@ const Featured = () => {
     sr.reveal(revealTitle.current, srConfig());
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
+  */
 
   return (
     <section id="projects">
