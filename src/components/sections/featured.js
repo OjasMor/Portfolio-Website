@@ -292,10 +292,9 @@ const Featured = () => {
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
-      <h2 className="numbered-heading" ref={revealTitle}>
+      <h2>
         ---Under Construction---
       </h2>
-
     
       <div>
         {featuredProjects &&
