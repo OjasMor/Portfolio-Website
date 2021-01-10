@@ -250,7 +250,7 @@ const Featured = () => {
   const data = useStaticQuery(graphql`
     query {
       featured: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/featured/" } }
+        filter: { fileAbsolutePath: { regex: "" } }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
@@ -289,10 +289,12 @@ const Featured = () => {
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
+      </h2>
+      <h2 className="numbered-heading" ref={revealTitle}>
         ---Under Construction---
       </h2>
 
-    /*
+    
       <div>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
@@ -337,10 +339,10 @@ const Featured = () => {
             );
           })}
       </div>
-      */
+      
       
     </section>
   );
 };
-
+*/
 export default Featured;
