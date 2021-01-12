@@ -11,7 +11,7 @@
 
 I have used [brittanychiang.com](https://brittanychiang.com) as a starting point for this website. Please visit her site/GitHub before forking this repo!
 
-Yes, you can fork this repo. Please give me and Brittany proper credit by linking back to [ojasmor.com](https://ojasmor.com) & [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give Brittany and I proper credit by linking back to [ojasmor.com](https://ojasmor.com) & [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
