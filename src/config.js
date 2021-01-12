@@ -7,14 +7,6 @@ module.exports = {
       url: 'https://github.com/OjasMor',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/ojasmor',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/OjasMor',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ojasmor/',
     },
