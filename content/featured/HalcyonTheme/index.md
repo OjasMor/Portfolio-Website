@@ -2,7 +2,7 @@
 date: '1'
 title: 'Traffic Light Classifier'
 cover:  'https://raw.githubusercontent.com/OjasMor/Traffic_Light_Classifier/main/images/all_lights.png'
-github: 'https://github.com/OjasMor/Traffic_Light_Classifier'
+github: './TLC.png'
 tech:
   - OpenCV
   - Jupyter Notebooks
