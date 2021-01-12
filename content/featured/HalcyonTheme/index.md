@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Traffic Light Classifier'
-cover: './halcyon.png'
+cover:  'https://raw.githubusercontent.com/OjasMor/Traffic_Light_Classifier/main/images/all_lights.png'
 github: 'https://github.com/OjasMor/Traffic_Light_Classifier'
 tech:
   - OpenCV
