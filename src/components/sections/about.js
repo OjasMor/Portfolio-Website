@@ -152,7 +152,7 @@ const About = () => {
             <p>
               Currently I'm a freshman at{' '}
               <a href="https://grainger.illinois.edu">The University of Illinois at Urbana Champaign</a>, here
-              I serve as the Engineering Freshman Council President. Currently, I'm a software engineering intern
+              I serve as the Engineering Freshman Council President. Outside of university, I'm a software engineering intern
               at the U.S. Department of State, through the Virtual Student Federal Service program.
             </p>
 
