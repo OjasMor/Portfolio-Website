@@ -1,7 +1,7 @@
 ---
 date: '2018-04-01'
 title: 'Web Design Tutor'
-company: 'Future Engineers LLC'
+company: 'Tutor | Future Engineers LLC'
 location: 'Cupertino, CA'
 range: 'June - August 2020'
 url: 'https://futureengineerscamp.com/'
