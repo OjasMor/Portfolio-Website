@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'AP Computer Science Teaching Assistant'
-company: 'Cupertino High School'
+company: 'APCS TA | Cupertino High School'
 location: 'Cupertino, CA'
 range: 'August 2019 - June 2020'
 url: 'https://apstudents.collegeboard.org/courses/ap-computer-science-a'
