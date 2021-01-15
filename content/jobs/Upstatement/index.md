@@ -1,7 +1,7 @@
 ---
 date: '2020-09-01'
 title: 'Software Engineering Intern'
-company: 'U.S. Department of State (VSFS)'
+company: 'SWE Intern | U.S. Department of State (VSFS)'
 location: 'Cupertino, CA'
 range: 'Sept 2020 - Present'
 url: 'https://vsfs.state.gov/projects/view/3342'
