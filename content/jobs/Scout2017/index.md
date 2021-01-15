@@ -1,7 +1,7 @@
 ---
 date: '2019-04-01'
 title: 'President'
-company: 'Engineering Freshman Council @ UIUC'
+company: 'President | Engineering Freshman Council @ UIUC'
 location: 'University of Illinois at Urbana Champaign'
 range: 'September 2020 - Present'
 url: 'http://www.ec.illinois.edu/freshmen'
