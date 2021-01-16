@@ -1,16 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Autonmous Car (DonkeyCar) w/LIDAR'
+cover: './331_Ojas_Mor_Still_Autonomous_Car_2020-07-21.png'
+github: 'https://github.com/OjasMor/donkeycar-LIDAR'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - OpenCV
+  - RaspberryPi
 showInProjects: false
-showInFeatured: false
+showInFeatured: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+DonkeyCar is a minimalist and modular self driving library for Python. It is developed for hobbyists and students with a focus on allowing fast experimentation and easy community contributions. I have added support for LIDAR on my personal DonkeyCar.
